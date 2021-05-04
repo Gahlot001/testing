@@ -1,5 +1,5 @@
 {
-  "name": "TOKYO USERBOT",
+  "name": "VENOM USERBOT",
   "description": "A simple Telegram userbot based on Telethon . Maintained by Sandeep ",
   "logo": "https://telegra.ph/file/3d60313110c58684b31ea.jpg",
   "keywords": [
@@ -13,11 +13,11 @@
   "env": {
     "ALIVE_NAME": {
       "description": "give your name",
-      "value": "Money Heist Spammers :- @MoneyHeistSpammers"
+      "value": ""
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "517853"
+      "value": "2014211"
     } ,
     "SUDO_USERS": {
       "description": "Sudo Users IDs",
@@ -25,7 +25,7 @@
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "562223e8d76824902b856e3401cc17cb"
+      "value": "fda65aa2e04bd13aa20f3c0594497b0b"
     },
     "STRING_SESSION": {
       "description": "Get this value by running python3 telesetup.py locally or https://generatestringsession.sandeep1709.repl.run",
@@ -56,7 +56,7 @@
     },
     "HEROKU_APP_NAME": {
       "description": "YOUR app name ",
-      "value": "tumhrabaap",
+      "value": "venom",
       "required": false
     },
     "TZ": {
